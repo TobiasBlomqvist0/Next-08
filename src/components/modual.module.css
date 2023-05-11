@@ -1,0 +1,42 @@
+.modual {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(55, 55, 55, 0.2);
+}
+
+.box {
+    padding: 2rem;
+    background-color: black;
+}
+
+.label {
+    font-size: 1.8rem;
+    margin: 1rem 0;
+    color: white;
+}
+
+.input {
+    width: 100%;
+    height: 30px;
+    padding: 1rem 2px;
+    border-radius: 12px;
+    font-size: 1.2rem;
+}
+
+.button {
+    width: 100%;
+    height: 40px;
+    font-size: 1.5rem;
+    background-color: greenyellow;
+    color: white;
+    margin-top: 1rem;
+    cursor: pointer;
+    border-radius: 12px;
+    border: none;
+}

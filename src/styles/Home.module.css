@@ -1,0 +1,28 @@
+.table {
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+
+.tableTr {
+  border: black solid 1px;
+  font-size: 1.5rem;
+  height: 50px;
+}
+
+.heading {
+  display: flex;
+  width: 50%;
+  margin: 2rem 0;
+  padding: 1rem 2rem;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  border-radius: 12px;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin-left: auto;
+}
